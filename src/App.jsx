@@ -9,6 +9,8 @@ function App() {
 
   return (
     <section className="confetti">
+    {!bestTime && !bestDiceRoll && <h1>Choose a React state, and click celebrate!</h1>} 
+
     {bestTime && bestDiceRoll ? (
     <h1>🏆New Best Game!🏆</h1>
     ) : bestDiceRoll ? (
@@ -16,6 +18,7 @@ function App() {
     ) : bestTime ? (
     <h1>⏱New Best Time!⏱</h1>
 ) : null}
+
       <div>
         <button onClick={newBestTime}>newBestTime</button>
         <button onClick={newBestDiceRoll}>newBestDiceRoll</button>
