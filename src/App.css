@@ -3,6 +3,11 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-width: 600px;
 }
 
+@media (max-width: 600px) {
+    .confetti div {
+    display: flex;
+    flex-direction: column;
+    }
+  }
