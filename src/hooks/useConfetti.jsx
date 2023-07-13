@@ -2,6 +2,7 @@ import { useRef, useEffect } from 'react';
 import JSConfetti from 'js-confetti';
 
 function useConfetti({ bestTime, setBestTime, bestDiceRoll, setBestDiceRoll }) {
+    
     const jsConfetti = useRef(null);
 
     function newBestTime() {
