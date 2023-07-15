@@ -1,7 +1,7 @@
 ![TN-TXG-96](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/07-23/img/07-17-2023/TN-TXG-96.jpg?raw=true)
 
 # confetti-react-custom-hook 
-A versatile and engaging confetti custom hook built using React, hooks, local storage, and the js-confetti library. This project allows you to incorporate confetti animations in your React applications, triggered by different events such as achieving a new best time or best dice roll.
+A versatile and engaging confetti custom hook built using React, hooks, local storage, and the js-confetti library. This project allows you to incorporate confetti animations in your React applications, triggered by different events, such as achieving a new best time or best dice roll.
 
 #### Built With
 * React
@@ -35,8 +35,8 @@ This project is licensed under the MIT License
 
 ## Links
 
-- [Article](https://selftaughttxg.com/2023/06-23/how-to-make-a-countdown-app-with-react-and-date-fns/)
-- [Live Demo](https://react-countdown-clock.netlify.app/)
+- [Article]()
+- [Live Demo](https://react-useconfetti-custom-hook.netlify.app/)
 
 ## Author
 
