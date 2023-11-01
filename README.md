@@ -35,7 +35,7 @@ This project is licensed under the MIT License
 
 ## Links
 
-- [Article]()
+- [Article](https://selftaughttxg.com/2023/07-23/how-to-make-a-confetti-react-custom-hook/)
 - [Live Demo](https://react-useconfetti-custom-hook.netlify.app/)
 
 ## Author
